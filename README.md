@@ -19,5 +19,8 @@ sys     0m0.015s
 * VM halting through exploitation of return instruction (0a, turned to 3a will halt operation)
 * File reading
 * Jumping, program self-modification potential
+## In Action
+![scoobis](https://cdn.discordapp.com/attachments/517928649727541248/713124772082614302/notepad_2020-05-21_17-09-58.png)
+
 ### But why?
 I challenged myself to write this in one day. I love this sorta stuff xD
